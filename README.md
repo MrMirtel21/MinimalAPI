@@ -1,1 +1,1 @@
-# Example for my minimal API coruse
+# Example for my minimal API course
