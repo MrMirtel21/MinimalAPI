@@ -1,1 +1,1 @@
-# minimal-apis-course
+# Example for my minimal API coruse
